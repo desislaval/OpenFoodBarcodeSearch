@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">DataStorage</string>
+    <string name="barcode1">Barcode:</string>
+    <string name="barcode">Barcode: %s</string>
+    <string name="source1">Source:</string>
+    <string name="source">Source: %s</string>
+    <string name="product_name">Product name: %s</string>
+    <string name="ingredients_list">Ingredients list: %s</string>
+    <string name="product_name1">Product name:</string>
+    <string name="ingredients_list1">Ingredients list:</string>
+    <string name="database">Database</string>
+    <string name="api">API</string>
 </resources>

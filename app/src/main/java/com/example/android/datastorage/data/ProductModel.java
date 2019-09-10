@@ -1,9 +1,9 @@
-package com.example.android.datastorage;
+package com.example.android.datastorage.data;
 
 public class ProductModel {
-    String code; //the code may have a leading zero
-    String product_name;
-    String ingredients_text;
+    private String code; //the code may have a leading zero
+    private String product_name;
+    private String ingredients_text;
 
     public String getCode() {
         return code;
